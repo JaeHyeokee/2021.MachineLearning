@@ -37,7 +37,7 @@
 | 6 | 로지스틱 회귀 (이론+실습) |  | 2021.04.05 | [Youtube](https://youtu.be/EPH7SoISuU4) | [과제](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/6%EC%A3%BC%EC%B0%A8/%EA%B3%BC%EC%A0%9C.md) 마감 4/11|
 | 7 | 판별 분석 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%91%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%AF%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.pdf) | 2021.04.12 | [Youtube](https://youtu.be/YUQF5veIvxE) | |
 | 7 | 판별 분석 (실습) |  | 2021.04.12 | [Youtube](https://youtu.be/K1Iw_ED2inY) | [과제](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/7%EC%A3%BC%EC%B0%A8/%EA%B3%BC%EC%A0%9C.md) 마감 4/18|
-| 8 | 중간고사 (이론+실습) |  | 2021.04.19 | [주의사항](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B8%EC%A3%BC%EC%B0%A8%5D%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC_%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.md) | |
+| 8 | 중간고사 (이론+실습) |  | 2021.04.19 |  | [주의사항](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B8%EC%A3%BC%EC%B0%A8%5D%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC_%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD.md) |
 
 
 
