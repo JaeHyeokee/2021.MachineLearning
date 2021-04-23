@@ -41,7 +41,7 @@
 | 9 | 의사결정나무 1 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.04.26 | [Youtube](https://youtu.be/G4sdVjg9r7o) | |
 | 9 | 의사결정나무 2 (이론) |  | 2021.04.26 | [Youtube](https://youtu.be/A1pFwtzX1rI) | |
 | 9 | 의사결정나무 3 (이론) |  | 2021.04.16 | [Youtube](https://youtu.be/uB94Fgk8ytw) | |
-| 9 | 의사결정나무 4 (실습) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2021.04.16 | [Youtube](https://youtu.be/uB94Fgk8ytw) | |
+| 9 | 의사결정나무 4 (실습) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2021.04.16 | [Youtube](https://youtu.be/z683uUHlDeM) | |
 
 
 
