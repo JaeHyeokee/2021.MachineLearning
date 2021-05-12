@@ -48,7 +48,7 @@
 | 10 | 텀프로젝트 |  | 2021.05.03 | | [프로젝트 설명서](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/Project.md), 마감 6/6|
 | 11 | Kmeans 1 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.05.10 | [Youtube](https://youtu.be/JsKQjINDDR8) | |
 | 11 | Kmeans 2 (이론) |  | 2021.05.10 | [Youtube](https://youtu.be/uxGNLtYvc1M) | |
-| 11 | Kmeans 3 (이론) |  | 2021.05.10 | [Youtube](https://youtu.be/uBmprA3Mm-Y) | [과제](https://github.com/sejongresearch/2021.MachineLearning/tree/main/Labs/11%EC%A3%BC%EC%B0%A8) 마감 5/16 |
-
+| 11 | Kmeans 3 (이론) |  | 2021.05.10 | [Youtube](https://youtu.be/uBmprA3Mm-Y) | |
+| 11 | Kmeans 4 (실습) | [PDF]() | 2021.05.10 | [Youtube](https://youtu.be/foVbwm-Gg6k) | [과제](https://github.com/sejongresearch/2021.MachineLearning/tree/main/Labs/11%EC%A3%BC%EC%B0%A8) 마감 5/16 |
 
 
