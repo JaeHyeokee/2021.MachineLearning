@@ -45,3 +45,8 @@
 
 ## 프로젝트 마감
 - 6월 6일 (일) 오후 11시 59분
+
+## 2020년 발표 우수 사례 모음
+- 프로젝트1: [곽석우](https://youtu.be/Nb9j8d6M7Uw), [신정민](https://youtu.be/_wkNotofDkU),[정인희](https://youtu.be/3Pqnybl-JNI), [김형준](https://youtu.be/TXqhhEfW3ss), [홍주영](https://youtu.be/VLnGs8IwPCo), [황유진](https://youtu.be/GNIHTHi3Q98)
+- 프로젝트2: [곽석우](https://youtu.be/viA7lYS0moE), [김은선](https://youtu.be/LzhG7cJ4Cv0), [장재훈](https://youtu.be/uJyX6EPrxtc), [정인희](https://youtu.be/z71DFoX9-eY), [최윤영](https://youtu.be/Aue_9Tgw_9M), [홍주영](https://youtu.be/23CV0sEI6J0)
+- 프로젝트3: [곽석우](https://youtu.be/n0XJ26drLLU), [김은선](https://youtu.be/GToGfD132V4), [장재훈](https://youtu.be/TF5X33wQ-Co), [정인희](https://youtu.be/DA5bNQ9FgGs), [최영민](https://youtu.be/wt_zarxYSg4), [홍주영](https://youtu.be/YTtZBEc9xiQ)
