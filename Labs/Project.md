@@ -44,7 +44,9 @@
 - 슬랙 [#2_질의응답] 채널 이용
 
 ## 프로젝트 마감
-- 6월 6일 (일) 오후 11시 59분
+- 리더보드 마감: 6월 6일 (일) 오후 11시 59분 
+- 자료 마감: 6월 7일 (월) 오후 11시 59분 
+  - 발표PPT, 발표동영상, 정리된 코드(주석필수) 
 
 ## 2020년 발표 우수 사례 모음
 - 프로젝트1: [곽석우](https://youtu.be/Nb9j8d6M7Uw), [신정민](https://youtu.be/_wkNotofDkU),[정인희](https://youtu.be/3Pqnybl-JNI), [김형준](https://youtu.be/TXqhhEfW3ss), [홍주영](https://youtu.be/VLnGs8IwPCo), [황유진](https://youtu.be/GNIHTHi3Q98)
