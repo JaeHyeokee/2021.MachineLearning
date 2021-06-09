@@ -58,8 +58,9 @@
 | 14 | 앙상블 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.05.31 | [Youtube](https://youtu.be/P35Ka54Hfr0) |  |
 | 14 | 앙상블 (실습) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_I.pdf). [코드](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/14%EC%A3%BC%EC%B0%A8/Readme.md) | 2021.05.31 | [Youtube](https://youtu.be/KD_y59ullOQ) |  |
 | 14 | 앙상블 (실습) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_II.pdf) | 2021.05.31 | [Youtube](https://youtu.be/XeL_OXIg1F8) |  |
-| 15 | 텀프로젝트 | [설명서](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/Project.md) | 2021.05.03 | [해설영상](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/Project_Video.md) | 마감 6/6 |
+| 15 | 텀프로젝트 | [설명서](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/Project.md) | 2021.06.07 | [해설영상](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/Project_Video.md) | 마감 6/6 |
 | 15 | 퀴즈2 |  | 2021.06.09 |  | [문제 및 코드](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Exam/Quiz2.md) |
+| 16 | 기말고사 |  | 2021.06.14 |  | |
 
 
 
