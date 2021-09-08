@@ -63,7 +63,7 @@
 | 16 | 기말고사 |  | 2021.06.14 |  | [문제](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Exam/FinalExam.md) |
 
 
-
+*2022년도 기계학습에서는 ML생애주기를 생략하고 데이터 전처리를 좀 더 상세하게 다루는 것으로..
 
 
 
